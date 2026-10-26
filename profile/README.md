@@ -1,6 +1,6 @@
 # AfroPanda Esports
 
-**Building the home of competitive gaming in Africa, and the tools gamers here need to play.**
+**Building the home of competitive gaming in Africa, and the agentic payment tools gamers here need to play.**
 
 AfroPanda started in Nigeria in 2023 as a competitive esports organisation, the Black & Orange family. Our mission is to grow esports across Africa, make gaming a respected career, and give African players a stage worth competing on.
 
@@ -13,7 +13,7 @@ AfroPanda started in Nigeria in 2023 as a competitive esports organisation, the 
 ## What we build
 
 ### 🐼 Panda Pay Africa
-Gaming payments for Nigeria and West Africa, inside WhatsApp. Buy PlayStation gift cards and PlayStation Plus with a Naira bank transfer, with no card needed, and get your code delivered in the chat.
+An AI agent for gaming payments in Nigeria and West Africa, inside WhatsApp. Tell it what you want: it finds the gift card, subscription or in-game currency, takes payment by Naira bank transfer with no card needed, and delivers your code in the chat.
 
 → [pandapay.africa](https://pandapay.africa)
 
